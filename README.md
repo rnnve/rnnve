@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cltq&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=cltq&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
