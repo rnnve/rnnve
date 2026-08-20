@@ -1,21 +1,15 @@
-# cltq
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=500&lines=developer;building+things;always+learning" />
+  <img src="https://count.getloli.com/@cltq?name=cltq&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cltq&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=cltq&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cltq&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cltq&theme=tokyo-night&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
