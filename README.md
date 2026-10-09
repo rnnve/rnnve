@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://count.getloli.com/@rnnve?name=rnnve&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=rnnve&theme=tokyonight" height="150" />
   <img src="https://github-stats-extended.vercel.app/api?username=rnnve&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 </p>
