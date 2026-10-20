@@ -1,0 +1,300 @@
+{
+ "key": "4aafd5b0",
+ "stars": 0,
+ "contributions": 334,
+ "repos": 14,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   678245
+  ],
+  [
+   "Python",
+   71834
+  ],
+  [
+   "Lua",
+   22762
+  ],
+  [
+   "CSS",
+   19731
+  ],
+  [
+   "MDX",
+   12808
+  ],
+  [
+   "JavaScript",
+   2414
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "aurutil",
+   "url": "https://github.com/rnnve/aurutil",
+   "text": "a simple bash script Using archlinux's aur github mirror instead of aur.archlinux.org. when aur is down",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "rnnve",
+   "url": "https://github.com/rnnve/rnnve",
+   "text": "Readme Profile and picture asssets store",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dots",
+   "url": "https://github.com/rnnve/dots",
+   "text": "Dotfiles backup for my Arch System",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "site",
+   "url": "https://github.com/rnnve/site",
+   "text": "My Portfolio/Personal website. Second Version",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "skills-mcp",
+   "url": "https://github.com/rnnve/skills-mcp",
+   "text": "Modular MCP skill host. First skill: Project SEKAI",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "hyprdots",
+   "url": "https://github.com/rnnve/hyprdots",
+   "text": "My unfinished hyprland dots, and it ain't finishing.",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "site",
+   "url": "https://github.com/rnnve/site",
+   "text": "My Portfolio/Personal website. Second Version",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "spotify-widget.self",
+   "url": "https://github.com/rnnve/spotify-widget.self",
+   "text": "An OBS-ready widget that displays your currently playing Spotify track.  Ofcourse vibecoded because no time lol",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "spotify-obs-widget",
+   "url": "https://github.com/rnnve/spotify-obs-widget",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "prskutils-discord.py",
+   "url": "https://github.com/rnnve/prskutils-discord.py",
+   "text": "A simple bot for TTS, Project Sekai chart/info viewer",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "docs",
+   "url": "https://github.com/rnnve/docs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "api",
+   "url": "https://github.com/rnnve/api",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "dots",
+   "url": "https://github.com/rnnve/dots",
+   "text": "Dotfiles backup for my Arch System",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "builders",
+   "url": "https://github.com/rnnve/builders",
+   "text": "Automatically build AUR (Arch User Repositories) packages and Custom Server for Pacman",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dcutils",
+   "url": "https://github.com/rnnve/dcutils",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "aurutil",
+   "url": "https://github.com/rnnve/aurutil",
+   "text": "a simple bash script Using archlinux's aur github mirror instead of aur.archlinux.org. when aur is down",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "rnnve",
+   "url": "https://github.com/rnnve/rnnve",
+   "text": "Readme Profile and picture asssets store",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "self-intro-fm",
+   "url": "https://github.com/rnnve/self-intro-fm",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
