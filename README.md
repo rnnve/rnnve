@@ -1,57 +1,21 @@
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rnnve&theme=tokyonight" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api?username=rnnve&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<div align="center">
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rnnve&theme=tokyo-night&hide_border=true" />
-</p> -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m rnnve"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="41.723%" alt=""></picture><a href="https://discord.com/users/969088519161139270"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="41.723%" alt=""></picture>
 
-## tools
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<p>
-  <a href="https://nextjs.org">
-    <img src="https://img.shields.io/badge/frontend-Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  </a>
-  <a href="https://react.dev">
-    <img src="https://img.shields.io/badge/frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  </a>
-  <a href="https://tailwindcss.com">
-    <img src="https://img.shields.io/badge/frontend-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<p>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/lang-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  </a>
-  <a href="https://python.org">
-    <img src="https://img.shields.io/badge/lang-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<p>
-  <a href="https://code.visualstudio.com">
-    <img src="https://img.shields.io/badge/dev-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://img.shields.io/badge/dev-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-<p>
-  <a href="https://vercel.com">
-    <img src="https://img.shields.io/badge/hosting-Vercel-black?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://cloudflare.com">
-    <img src="https://img.shields.io/badge/hosting-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<p>
-  <a href="https://archlinux.org">
-    <img src="https://img.shields.io/badge/system-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  </a>
-</p>
+<a href="https://rynni.cc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/rnnve?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=rnnve"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
