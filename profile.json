@@ -78,12 +78,12 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "brand:vercel",
+            "label": "Vercel"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:cloudflare",
+            "label": "Cloudflare"
           }
         ]
       }
