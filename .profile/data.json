@@ -1,33 +1,33 @@
 {
- "key": "57332a93",
+ "key": "9d729c7",
  "stars": 0,
- "contributions": 335,
+ "contributions": 307,
  "repos": 14,
  "followers": 1,
  "languages": [
   [
    "TypeScript",
-   678245
+   657947
   ],
   [
    "Python",
    71834
   ],
   [
+   "CSS",
+   24905
+  ],
+  [
    "Lua",
    22762
   ],
   [
-   "CSS",
-   19731
+   "JavaScript",
+   3261
   ],
   [
    "MDX",
-   12808
-  ],
-  [
-   "JavaScript",
-   2414
+   763
   ]
  ],
  "days": [
@@ -95,7 +95,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 2,
     "day": 16,
     "today": false
    },
@@ -132,7 +132,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 23,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 5
  },
  "pins": [
@@ -170,18 +170,18 @@
    "stars": 0,
    "language": "Shell",
    "topics": []
-  },
+  }
+ ],
+ "all": [
   {
-   "name": "site",
-   "url": "https://github.com/rnnve/site",
-   "text": "My Portfolio/Personal website. Second Version",
+   "name": "web",
+   "url": "https://github.com/rnnve/web",
+   "text": "My personal website.",
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
    "topics": []
-  }
- ],
- "all": [
+  },
   {
    "name": "skills-mcp",
    "url": "https://github.com/rnnve/skills-mcp",
@@ -198,15 +198,6 @@
    "fork": false,
    "stars": 0,
    "language": "Lua",
-   "topics": []
-  },
-  {
-   "name": "site",
-   "url": "https://github.com/rnnve/site",
-   "text": "My Portfolio/Personal website. Second Version",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
    "topics": []
   },
   {
@@ -248,7 +239,7 @@
   {
    "name": "api",
    "url": "https://github.com/rnnve/api",
-   "text": "",
+   "text": "My personal API repo",
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
@@ -275,7 +266,7 @@
   {
    "name": "dcutils",
    "url": "https://github.com/rnnve/dcutils",
-   "text": "",
+   "text": "My Utilities Discord User-app bot",
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
