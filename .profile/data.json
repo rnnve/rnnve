@@ -1,5 +1,5 @@
 {
- "key": "90197249",
+ "key": "bcc24bc2",
  "stars": 0,
  "contributions": 321,
  "repos": 14,
@@ -7,19 +7,19 @@
  "languages": [
   [
    "TypeScript",
-   726610
+   764710
+  ],
+  [
+   "JavaScript",
+   138749
   ],
   [
    "CSS",
-   122230
+   133121
   ],
   [
    "Python",
    71834
-  ],
-  [
-   "JavaScript",
-   66410
   ],
   [
    "Lua",
@@ -159,7 +159,7 @@
    "text": "My personal website.",
    "fork": false,
    "stars": 0,
-   "language": "CSS",
+   "language": "JavaScript",
    "topics": []
   },
   {
