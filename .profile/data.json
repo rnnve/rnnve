@@ -1,25 +1,25 @@
 {
- "key": "bcc24bc2",
+ "key": "58c4d4c8",
  "stars": 0,
- "contributions": 321,
- "repos": 14,
+ "contributions": 528,
+ "repos": 15,
  "followers": 2,
  "languages": [
   [
    "TypeScript",
-   764710
+   1692428
   ],
   [
    "JavaScript",
-   138749
+   143841
   ],
   [
    "CSS",
-   133121
+   136329
   ],
   [
    "Python",
-   71834
+   75356
   ],
   [
    "Lua",
@@ -109,9 +109,13 @@
    {
     "c": 2,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 240,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -120,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 6
  },
  "pins": [
@@ -154,12 +158,21 @@
  ],
  "all": [
   {
+   "name": "learning-app",
+   "url": "https://github.com/rnnve/learning-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
    "name": "web",
    "url": "https://github.com/rnnve/web",
    "text": "My personal website.",
    "fork": false,
    "stars": 0,
-   "language": "JavaScript",
+   "language": "TypeScript",
    "topics": []
   },
   {
