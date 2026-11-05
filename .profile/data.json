@@ -1,21 +1,17 @@
 {
- "key": "18f24d25",
+ "key": "fab12bcf",
  "stars": 0,
- "contributions": 601,
+ "contributions": 603,
  "repos": 15,
  "followers": 2,
  "languages": [
   [
    "TypeScript",
-   1774204
-  ],
-  [
-   "CSS",
-   158107
+   1910792
   ],
   [
    "JavaScript",
-   143841
+   154390
   ],
   [
    "Python",
@@ -24,6 +20,10 @@
   [
    "Lua",
    22762
+  ],
+  [
+   "CSS",
+   15535
   ],
   [
    "MDX",
@@ -127,7 +127,7 @@
     "today": false
    },
    {
-    "c": 27,
+    "c": 29,
     "day": 5,
     "today": true
    },
