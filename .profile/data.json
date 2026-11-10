@@ -1,25 +1,25 @@
 {
- "key": "509ac917",
+ "key": "378d10f6",
  "stars": 0,
- "contributions": 752,
- "repos": 15,
+ "contributions": 828,
+ "repos": 16,
  "followers": 2,
  "languages": [
   [
    "TypeScript",
-   1937569
+   2161770
   ],
   [
    "JavaScript",
-   154390
+   156279
+  ],
+  [
+   "CSS",
+   116880
   ],
   [
    "Python",
    91268
-  ],
-  [
-   "CSS",
-   48501
   ],
   [
    "Lua",
@@ -28,6 +28,10 @@
   [
    "MDX",
    763
+  ],
+  [
+   "HTML",
+   707
   ]
  ],
  "days": [
@@ -117,7 +121,7 @@
     "today": false
    },
    {
-    "c": 96,
+    "c": 172,
     "day": 10,
     "today": true
    },
@@ -132,15 +136,6 @@
   "longest": 10
  },
  "pins": [
-  {
-   "name": "aurutil",
-   "url": "https://github.com/rnnve/aurutil",
-   "text": "a simple bash script Using archlinux's aur github mirror instead of aur.archlinux.org. when aur is down",
-   "fork": false,
-   "stars": 0,
-   "language": "Shell",
-   "topics": []
-  },
   {
    "name": "rnnve",
    "url": "https://github.com/rnnve/rnnve",
@@ -158,9 +153,36 @@
    "stars": 0,
    "language": "Shell",
    "topics": []
+  },
+  {
+   "name": "jp-trainer",
+   "url": "https://github.com/rnnve/jp-trainer",
+   "text": "A Web Application to help training Japanese",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "web",
+   "url": "https://github.com/rnnve/web",
+   "text": "My personal website.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
   }
  ],
  "all": [
+  {
+   "name": "jp-trainer",
+   "url": "https://github.com/rnnve/jp-trainer",
+   "text": "A Web Application to help training Japanese",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
   {
    "name": "learning-app",
    "url": "https://github.com/rnnve/learning-app",
