@@ -1,5 +1,5 @@
 {
- "key": "16c4eed3",
+ "key": "7f3c2fad",
  "stars": 0,
  "contributions": 1899,
  "repos": 16,
@@ -7,15 +7,15 @@
  "languages": [
   [
    "TypeScript",
-   2129911
+   2160152
   ],
   [
    "CSS",
-   130362
+   522321
   ],
   [
    "JavaScript",
-   105799
+   99430
   ],
   [
    "Python",
@@ -169,7 +169,7 @@
    "text": "My personal website.",
    "fork": false,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "CSS",
    "topics": []
   }
  ],
@@ -198,7 +198,7 @@
    "text": "My personal website.",
    "fork": false,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "CSS",
    "topics": []
   },
   {
